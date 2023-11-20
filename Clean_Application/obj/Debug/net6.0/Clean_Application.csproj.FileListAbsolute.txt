@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\bin\Debug\net6.0\Clean_Application.deps.json
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\bin\Debug\net6.0\Clean_Application.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\bin\Debug\net6.0\Clean_Application.pdb
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\bin\Debug\net6.0\Clean_Domain.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\bin\Debug\net6.0\Clean_Domain.pdb
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.AssemblyInfo.cs
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.csproj.CopyComplete
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\refint\Clean_Application.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\Clean_Application.pdb
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Application\obj\Debug\net6.0\ref\Clean_Application.dll

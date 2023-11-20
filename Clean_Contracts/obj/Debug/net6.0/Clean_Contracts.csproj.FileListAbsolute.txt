@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\bin\Debug\net6.0\Clean_Contracts.deps.json
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\bin\Debug\net6.0\Clean_Contracts.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\bin\Debug\net6.0\Clean_Contracts.pdb
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.AssemblyInfo.cs
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\refint\Clean_Contracts.dll
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\Clean_Contracts.pdb
+C:\Users\user\Desktop\visualstudio\FirstClean\Clean_Contracts\obj\Debug\net6.0\ref\Clean_Contracts.dll

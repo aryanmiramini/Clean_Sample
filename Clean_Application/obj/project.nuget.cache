@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZN75AFseF2jc2nZ8et6jQEnyBy4AubyWlnZbLjFWjeAT2XGmf2doTNurmx93cw4v2wn8gZhO1JdvcuchBu0tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\visualstudio\\FirstClean\\Clean_Application\\Clean_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
